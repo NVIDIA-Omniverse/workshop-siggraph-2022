@@ -1,3 +1,9 @@
+## :warning: Deprecation Notice
+
+**This repository will be removed on May 26, 2025.**
+
+Please see [kit-app-template repository](https://github.com/NVIDIA-Omniverse/kit-app-template) or download the [Kit SDK from NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/omniverse/collections/kit) for content related to Kit application and extension development.
+
 # omni.ui.scene Kit Extension Samples
 
 ## [Object Info (omni.example.ui_scene.object_info)](exts/omni.example.ui_scene.object_info)
